@@ -4,6 +4,8 @@ Calculadora para Android que convierte bolívares, dólar BCV, euro BCV y USDT a
 
 Hecha por **ByMigxel**.
 
+**Página web:** https://bymigxel.github.io/Calculadora-Bs/
+
 ## Qué hace
 
 - Muestra tu cálculo en todas las monedas a la vez: bolívares, dólar BCV, euro BCV, USDT y promedio.
@@ -15,14 +17,14 @@ Hecha por **ByMigxel**.
 
 ## Descarga
 
-Baja el archivo `.apk` desde la sección **Releases** de este repositorio (a la derecha de esta página).
+Baja el archivo `.apk` desde la sección **Releases** de este repositorio (a la derecha de esta página) o desde la [página web](https://bymigxel.github.io/Calculadora-Bs/).
 
 | Versión | Tamaño aproximado | Para quién es |
 |---|---|---|
 | Calculadora Bs | 65 MB | Teléfonos actuales. Con efecto de vidrio y animaciones. |
 | Calculadora Bs Lite | 28 MB | Teléfonos modestos. Más liviana, sin efectos. |
 
-En teléfonos anteriores a 2017 (de 32 bits) puede que la app no funcione.
+Versión actual: **0.2.1**. En teléfonos anteriores a 2017 (de 32 bits) puede que la app no funcione.
 
 ## Cómo instalarla
 
@@ -42,7 +44,7 @@ Hay un minitutorial en [TikTok](https://www.tiktok.com/@bymigxel).
 
 ## Aviso
 
-Calculadora Bs es una app independiente. No está afiliada al Banco Central de Venezuela (BCV) ni a Binance. Los valores son informativos: confirma siempre antes de operar.
+Calculadora Bs es una app independiente sin fines de lucro. No está afiliada al Banco Central de Venezuela (BCV) ni a Binance. Los valores son informativos: confirma siempre antes de operar.
 
 ## Contacto
 
